@@ -5,23 +5,27 @@
 # prevent it from being included in the site.
 
 main:
+  - title: "Generative Robot Design"
+    url: /agdr/
+
+  - title: "Robots for Ecology"
+    url: /rob_eco/
+
+  - title: "Developmental Robotics"
+    url: /dev_rob/
+
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Open Positions"
+    url: /jobs/
 
-  - title: "Teaching"
-    url: /teaching/    
+  # - title: "CV"
+  #   url: /cv/
+
+  # - title: "Photography"
+  #   url: /photography/
+
+  # - title: "Video Games"
+  #   url: /video_games/
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
