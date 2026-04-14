@@ -1,5 +1,5 @@
 ---
-permalink: /rob_eco
+permalink: /rob_eco/
 title: "Robots for Ecology"
 author_profile: true
 redirect_from: 
