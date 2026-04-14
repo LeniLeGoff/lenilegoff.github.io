@@ -8,8 +8,8 @@ main:
   - title: "Generative Robot Design"
     url: /agdr/
 
-  - title: "Robots for Ecology"
-    url: /rob_eco/
+  # - title: "Robots for Ecology"
+  #   url: /rob_eco/
 
   - title: "Developmental Robotics"
     url: /dev_rob/
