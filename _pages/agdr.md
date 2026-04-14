@@ -1,5 +1,5 @@
 ---
-permalink: /agdr
+permalink: /agdr/
 title: "Autonomous Generative Design for Robotics"
 author_profile: true
 redirect_from: 
